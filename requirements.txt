@@ -1,0 +1,8 @@
+python-telegram-bot[socks]>=21.0
+python-dotenv>=1.0.0
+psutil>=5.9.0
+pycaw>=20240000
+comtypes>=1.2.0
+mss>=9.0.0
+pyperclip>=1.8.0
+requests>=2.31.0

@@ -1,0 +1,6 @@
+{
+  "Discord": "%LOCALAPPDATA%\\Discord\\Update.exe --processStart Discord.exe",
+  "DuckDuckGo": "https://duckduckgo.com",
+  "Telegram": "%APPDATA%\\Telegram Desktop\\Telegram.exe",
+  "Notepad": "notepad.exe"
+}
